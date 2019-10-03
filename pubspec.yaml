@@ -1,0 +1,19 @@
+name: digihttp
+description: Digitify HTTP package
+version: 0.0.1
+author: jim <irawan.jemmy@gmail.com>
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^0.12.0
+  shared_preferences: ^0.5.3+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
