@@ -29,7 +29,7 @@ class ResponseInsertData {
 
 class Http {
   static String _api;
-  set api(String a) => _api = a;
+  static set api(String a) => _api = a;
 
   Future<T> getSingle<T>(String endpoint, Serializable<T> s) async {
     http.Response response = await http

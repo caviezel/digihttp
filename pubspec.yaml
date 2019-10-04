@@ -1,8 +1,8 @@
 name: digihttp
 description: Digitify HTTP package
-version: 0.0.1
+version: 0.0.2
 author: jim <irawan.jemmy@gmail.com>
-homepage:
+homepage: https://github.com/caviezel/digihttp
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
